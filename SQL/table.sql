@@ -112,3 +112,4 @@
 
 
 
+update CLIENT_MASTER set city = 'Bangalore' where clientno = "C0005";
